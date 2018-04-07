@@ -1,0 +1,65 @@
+Enter Minimum and Maximum Value of PID (In between 100-1000) :-
+
+Min PID value : 100
+Max PID value : 105
+
+
+Now Enter number of thread you want to create (MAX :100) : 10
+
+
+--------------------------- STARTING EXECUTION ----------------------------------
+
+
+ Thread: 1 has taken PID: 100 .	 PROCESSING for 5 seconds
+
+ Thread: 2 has taken PID: 101 .	 PROCESSING for 11 seconds
+
+ Thread: 3 has taken PID: 102 .	 PROCESSING for 10 seconds
+
+ Thread: 4 has taken PID: 103 .	 PROCESSING for 12 seconds
+
+ Thread: 5 has taken PID: 104 .	 PROCESSING for 2 seconds
+
+ Thread: 1 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 6 has taken PID: 100 .	 PROCESSING for 13 seconds
+
+ Thread: 5 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 7 has taken PID: 104 .	 PROCESSING for 0 seconds
+
+ Thread: 7 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 8 has taken PID: 104 .	 PROCESSING for 8 seconds
+
+ Thread: 9 has taken PID: 105 .	 PROCESSING for 5 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+ Thread: 2 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 3 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 10 has taken PID: 101 .	 PROCESSING for 13 seconds
+
+ Thread: 9 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 4 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 8 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 6 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 10 has COMPLETED. 	 PID: 101  has RELEASED.
+
+
+ 		ALL THREAD HAS DONE ITS EXECUTION 
+
+ 		********* THANK YOU ********** 
