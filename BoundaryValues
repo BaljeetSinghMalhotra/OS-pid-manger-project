@@ -1,0 +1,6 @@
+
+
+#define PID_GMIN 100             // value should not less than 100
+#define PID_GMAX 1000             // value should not greater than 1000
+#define MNUM_THREADS 100          // Maximum number of thread can be created is 100
+#define MAX_SLEEP_SECS 15       // Maximum sleep time generated randomly will be 15
