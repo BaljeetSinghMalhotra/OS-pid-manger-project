@@ -1,0 +1,135 @@
+Enter Minimum and Maximum Value of PID (In between 100-1000) :-
+
+Min PID value : 200
+Max PID value : 201
+
+
+Now Enter number of thread you want to create (MAX :100) : 10
+
+
+--------------------------- STARTING EXECUTION ----------------------------------
+
+
+ Thread: 1 has taken PID: 200 .	 PROCESSING for 9 seconds
+
+ Thread: 2 has taken PID: 201 .	 PROCESSING for 7 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 3 has to wait for pid to release.
+
+ Thread: 2 has COMPLETED. 	 PID: 201  has RELEASED.
+
+ Thread: 3 has taken PID: 201 .	 PROCESSING for 5 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 6 has to wait for pid to release.
+
+ Thread: 1 has COMPLETED. 	 PID: 200  has RELEASED.
+
+ Thread: 6 has taken PID: 200 .	 PROCESSING for 0 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 5 has to wait for pid to release.
+
+ Thread: 6 has COMPLETED. 	 PID: 200  has RELEASED.
+
+ Thread: 5 has taken PID: 200 .	 PROCESSING for 0 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 7 has to wait for pid to release.
+
+ Thread: 5 has COMPLETED. 	 PID: 200  has RELEASED.
+
+ Thread: 7 has taken PID: 200 .	 PROCESSING for 13 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 4 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 4 has to wait for pid to release.
+
+ Thread: 3 has COMPLETED. 	 PID: 201  has RELEASED.
+
+ Thread: 4 has taken PID: 201 .	 PROCESSING for 14 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 9 has to wait for pid to release.
+
+ Thread: 7 has COMPLETED. 	 PID: 200  has RELEASED.
+
+ Thread: 9 has taken PID: 200 .	 PROCESSING for 4 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 10 has to wait for pid to release.
+
+ Thread: 4 has COMPLETED. 	 PID: 201  has RELEASED.
+
+ Thread: 10 has taken PID: 201 .	 PROCESSING for 4 seconds
+
+
+!!! Can't allocate PID . Due to full usage of PID !!!	 THREAD : 8 has to wait for pid to release.
+
+ Thread: 9 has COMPLETED. 	 PID: 200  has RELEASED.
+
+ Thread: 8 has taken PID: 200 .	 PROCESSING for 14 seconds
+
+ Thread: 10 has COMPLETED. 	 PID: 201  has RELEASED.
+
+ Thread: 8 has COMPLETED. 	 PID: 200  has RELEASED.
+
+
+ 		ALL THREAD HAS DONE ITS EXECUTION 
+
+ 		********* THANK YOU ********** 
+
