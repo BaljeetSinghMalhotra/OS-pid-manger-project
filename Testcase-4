@@ -1,0 +1,217 @@
+Enter Minimum and Maximum Value of PID (In between 100-1000) :-
+
+Min PID value : 100
+Max PID value : 1000
+
+
+Now Enter number of thread you want to create (MAX :100) : 50
+
+
+--------------------------- STARTING EXECUTION ----------------------------------
+
+
+ Thread: 1 has taken PID: 100 .	 PROCESSING for 5 seconds
+
+ Thread: 2 has taken PID: 101 .	 PROCESSING for 4 seconds
+
+ Thread: 3 has taken PID: 102 .	 PROCESSING for 14 seconds
+
+ Thread: 4 has taken PID: 103 .	 PROCESSING for 2 seconds
+
+ Thread: 5 has taken PID: 104 .	 PROCESSING for 9 seconds
+
+ Thread: 1 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 2 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 4 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 6 has taken PID: 100 .	 PROCESSING for 7 seconds
+
+ Thread: 7 has taken PID: 101 .	 PROCESSING for 9 seconds
+
+ Thread: 8 has taken PID: 103 .	 PROCESSING for 14 seconds
+
+ Thread: 9 has taken PID: 105 .	 PROCESSING for 6 seconds
+
+ Thread: 10 has taken PID: 106 .	 PROCESSING for 6 seconds
+
+ Thread: 11 has taken PID: 107 .	 PROCESSING for 3 seconds
+
+ Thread: 12 has taken PID: 108 .	 PROCESSING for 8 seconds
+
+ Thread: 6 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 13 has taken PID: 100 .	 PROCESSING for 1 seconds
+
+ Thread: 5 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 11 has COMPLETED. 	 PID: 107  has RELEASED.
+
+ Thread: 14 has taken PID: 104 .	 PROCESSING for 1 seconds
+
+ Thread: 13 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 9 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 14 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 15 has taken PID: 100 .	 PROCESSING for 5 seconds
+
+ Thread: 7 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 10 has COMPLETED. 	 PID: 106  has RELEASED.
+
+ Thread: 16 has taken PID: 101 .	 PROCESSING for 5 seconds
+
+ Thread: 3 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 17 has taken PID: 102 .	 PROCESSING for 8 seconds
+
+ Thread: 18 has taken PID: 104 .	 PROCESSING for 7 seconds
+
+ Thread: 19 has taken PID: 105 .	 PROCESSING for 7 seconds
+
+ Thread: 12 has COMPLETED. 	 PID: 108  has RELEASED.
+
+ Thread: 15 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 20 has taken PID: 100 .	 PROCESSING for 2 seconds
+
+ Thread: 16 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 21 has taken PID: 101 .	 PROCESSING for 9 seconds
+
+ Thread: 8 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 20 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 22 has taken PID: 100 .	 PROCESSING for 4 seconds
+
+ Thread: 23 has taken PID: 103 .	 PROCESSING for 12 seconds
+
+ Thread: 24 has taken PID: 106 .	 PROCESSING for 2 seconds
+
+ Thread: 17 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 18 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 25 has taken PID: 102 .	 PROCESSING for 4 seconds
+
+ Thread: 19 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 22 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 24 has COMPLETED. 	 PID: 106  has RELEASED.
+
+ Thread: 26 has taken PID: 100 .	 PROCESSING for 10 seconds
+
+ Thread: 27 has taken PID: 104 .	 PROCESSING for 1 seconds
+
+ Thread: 27 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 28 has taken PID: 104 .	 PROCESSING for 11 seconds
+
+ Thread: 25 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 29 has taken PID: 102 .	 PROCESSING for 3 seconds
+
+ Thread: 21 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 30 has taken PID: 101 .	 PROCESSING for 13 seconds
+
+ Thread: 31 has taken PID: 105 .	 PROCESSING for 0 seconds
+
+ Thread: 31 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 29 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 32 has taken PID: 102 .	 PROCESSING for 0 seconds
+
+ Thread: 32 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 33 has taken PID: 102 .	 PROCESSING for 9 seconds
+
+ Thread: 34 has taken PID: 105 .	 PROCESSING for 6 seconds
+
+ Thread: 23 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 35 has taken PID: 103 .	 PROCESSING for 2 seconds
+
+ Thread: 26 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 36 has taken PID: 100 .	 PROCESSING for 4 seconds
+
+ Thread: 35 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 37 has taken PID: 103 .	 PROCESSING for 13 seconds
+
+ Thread: 38 has taken PID: 106 .	 PROCESSING for 3 seconds
+
+ Thread: 28 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 39 has taken PID: 104 .	 PROCESSING for 3 seconds
+
+ Thread: 34 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 36 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 40 has taken PID: 100 .	 PROCESSING for 12 seconds
+
+ Thread: 38 has COMPLETED. 	 PID: 106  has RELEASED.
+
+ Thread: 41 has taken PID: 105 .	 PROCESSING for 10 seconds
+
+ Thread: 33 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 39 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 42 has taken PID: 102 .	 PROCESSING for 14 seconds
+
+ Thread: 30 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 43 has taken PID: 101 .	 PROCESSING for 5 seconds
+
+ Thread: 44 has taken PID: 104 .	 PROCESSING for 3 seconds
+
+ Thread: 45 has taken PID: 106 .	 PROCESSING for 0 seconds
+
+ Thread: 45 has COMPLETED. 	 PID: 106  has RELEASED.
+
+ Thread: 46 has taken PID: 106 .	 PROCESSING for 2 seconds
+
+ Thread: 44 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 47 has taken PID: 104 .	 PROCESSING for 8 seconds
+
+ Thread: 43 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 46 has COMPLETED. 	 PID: 106  has RELEASED.
+
+ Thread: 48 has taken PID: 101 .	 PROCESSING for 8 seconds
+
+ Thread: 49 has taken PID: 106 .	 PROCESSING for 10 seconds
+
+ Thread: 37 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 50 has taken PID: 103 .	 PROCESSING for 7 seconds
+
+ Thread: 41 has COMPLETED. 	 PID: 105  has RELEASED.
+
+ Thread: 40 has COMPLETED. 	 PID: 100  has RELEASED.
+
+ Thread: 47 has COMPLETED. 	 PID: 104  has RELEASED.
+
+ Thread: 42 has COMPLETED. 	 PID: 102  has RELEASED.
+
+ Thread: 48 has COMPLETED. 	 PID: 101  has RELEASED.
+
+ Thread: 50 has COMPLETED. 	 PID: 103  has RELEASED.
+
+ Thread: 49 has COMPLETED. 	 PID: 106  has RELEASED.
+
+
+ 		ALL THREAD HAS DONE ITS EXECUTION 
+
+ 		********* THANK YOU ********** 
+
